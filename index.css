@@ -1,9 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body,html{
+    height: 100%;
+}
 p {
     color:black ;
 }
-img {
+
+.mg-styling{
     width: 100%;
-    min-width: 300px;
-    max-width: 400px;
+    background-image: url("/img/djkhaled_20210106_114634_0\ \(1\).jpg");
+}
+
+body{
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
 
 }
