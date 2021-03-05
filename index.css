@@ -1,24 +1,50 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
-body,html{
-    height: 100%;
+body,
+html {
+  height: 100%;
 }
 p {
-    color:black ;
+  color: black;
 }
 
-.mg-styling{
-    width: 100%;
-    background-image: url("/img/djkhaled_20210106_114634_0\ \(1\).jpg");
+main {
+  height: 100%;
+  background-color: url("img/pexels-stein-egil-liland-1933239.jpg");
+  background-position: center;
+  background-size: cover;
 }
 
-body{
-background-size: cover;
-background-repeat: no-repeat;
-height: 100%;
+.nav-bar {
+
+  background-color: lightgrey;
+  height: 80px;
+  padding: 28px 0;
+}
+.nav-bar a {
+    text-decoration: none;
+    
+  
+}.nav-bar li{
+    display: -webkit-inline-box;
+    padding: 1rem;
+    justify-content: right;
+    
+}
+.nav-bar ul{
+    float: right;
+}
+footer i{
+    padding: 10px;
+}
+.fa-instagram{
+  color: fuchsia;
 
 }
-"
+  
+.fa-pinterest{
+  color: firebrick;
+}
