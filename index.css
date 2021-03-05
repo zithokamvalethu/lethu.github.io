@@ -3,7 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
-body,
+body{
+  background: burlywood;
+}
 html {
   height: 100%;
 }
@@ -13,14 +15,16 @@ p {
 
 main {
   height: 100%;
-  background-color: url("img/pexels-stein-egil-liland-1933239.jpg");
+  
   background-position: center;
   background-size: cover;
+  margin-bottom:1rem ;
+
 }
 
 .nav-bar {
 
-  background-color: lightgrey;
+  background-color: burlywood;
   height: 80px;
   padding: 28px 0;
 }
@@ -41,10 +45,40 @@ footer i{
     padding: 10px;
 }
 .fa-instagram{
-  color: fuchsia;
+
+color: black; 
 
 }
   
 .fa-pinterest{
-  color: firebrick;
+  color: black;
+}
+footer a{
+  color: black;
+}
+.nav-bar a{
+  color: black;
+}
+.paragraph1{
+  color: black;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  background: burlywood;
+}
+.paragraph2{
+  color: black;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  background: burlywood;
+}
+.paragraph3{
+  color:black ;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  background: burlywood;
+}
+.background-color {
+  background: burlywood;
+  height: auto;
+  width: 100%;
 }
