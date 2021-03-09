@@ -30,16 +30,17 @@ main {
 }
 .nav-bar a {
     text-decoration: none;
-    
   
 }.nav-bar li{
     display: -webkit-inline-box;
+  
     padding: 1rem;
     justify-content: right;
-    
+  
 }
 .nav-bar ul{
     float: right;
+   
 }
 footer i{
     padding: 10px;
@@ -55,9 +56,11 @@ color: black;
 }
 footer a{
   color: black;
+  background: burlywood;
 }
 .nav-bar a{
   color: black;
+  background: burlywood;
 }
 .paragraph1{
   color: black;
@@ -65,6 +68,7 @@ footer a{
   margin-bottom: 1rem;
   background: burlywood;
   margin: 1rem;
+  
 }
 .paragraph2{
   color: black;
@@ -84,4 +88,7 @@ footer a{
   background: burlywood;
   height: auto;
   width: 100%;
+}
+.about{
+  background: burlywood;
 }
