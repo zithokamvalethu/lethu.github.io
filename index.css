@@ -3,92 +3,31 @@
   margin: 0;
   box-sizing: border-box;
 }
-body{
+.paragraph1{
   background: burlywood;
-}
+  
 html {
   height: 100%;
 }
-p {
-  color: black;
+.pragraph2{
+  background: burlywood;
 }
-
-main {
-  height: 100%;
-  
-  background-position: center;
-  background-size: cover;
-  margin-bottom:1rem ;
-
-}
-
-.nav-bar {
-
-  background-color: burlywood;
-  height: 80px;
-  padding: 28px 0;
-}
-.nav-bar a {
-    text-decoration: none;
-  
-}.nav-bar li{
-    display: -webkit-inline-box;
-  
+.sidenav { 
+  display: flex;
+justify-content: flex-start;
+padding: 1rem;
+ background: burlywood;
+  }
+  .sidenav a{
     padding: 1rem;
-    justify-content: right;
-  
-}
-.nav-bar ul{
-    float: right;
+    text-decoration: none;
+    color: black;
    
-}
-footer i{
-    padding: 10px;
-}
-.fa-instagram{
+  }
+  .img{
+    border: burlywood;
 
-color: black; 
-
-}
-  
-.fa-pinterest{
-  color: black;
-}
-footer a{
-  color: black;
-  background: burlywood;
-}
-.nav-bar a{
-  color: black;
-  background: burlywood;
-}
-.paragraph1{
-  color: black;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  background: burlywood;
-  margin: 1rem;
-  
-}
-.paragraph2{
-  color: black;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  background: burlywood;
-  margin: 1rem;
-}
-.paragraph3{
-  color:black ;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  background: burlywood;
-  margin: 1rem;
-}
-.background-color {
-  background: burlywood;
-  height: auto;
-  width: 100%;
-}
-.about{
-  background: burlywood;
-}
+  }
+  .sidenav li{
+    list-style-type: none;
+  }
