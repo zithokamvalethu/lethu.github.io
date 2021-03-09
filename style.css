@@ -1,33 +1,43 @@
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-.paragraph1{
-  background: burlywood;
-}
-html {
-  height: 100%;
-}
-.pragraph2{
-  background: burlywood;
-}
-.sidenav { 
-  display: flex;
-justify-content: flex-start;
-padding: 1rem;
- background: burlywood;
+  
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
   }
+
+  .paragraph1{
+    background: burlywood;
+  }
+
+  html {
+    height: 100%;
+  }
+
+  .pragraph2{
+    background: burlywood;
+    display: flex; 
+  }
+
+  .sidenav { 
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 1rem;
+    background: burlywood;
+  }
+
   .sidenav a{
     padding: 1rem;
+    flex-direction: row;
     text-decoration: none;
-    color: black;
-   
+    color: black;  
   }
-  .img{
-    border: burlywood;
 
-  }
   .sidenav li{
     list-style-type: none;
+  }
+
+  .pragraph2 p{
+    margin: 2rem; 
+    background: burlywood;
   }
