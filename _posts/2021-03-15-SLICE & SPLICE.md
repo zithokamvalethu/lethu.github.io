@@ -12,10 +12,10 @@ Categories:
 I will write about splice and slice .
 
 # BODY
-The splice():method adds or removes items to or from an array, and returns the removed item(s).
+The splice(): method adds or removes items to or from an array, and returns the removed item(s).
 This changes the original array 
 
-The slice() :method returns the selected elements in an array, as a new array object.
+The slice():  returns the selected elements in an array, as a new array object.
 The original array  will not be changed.
 
 # CONCLUSION
