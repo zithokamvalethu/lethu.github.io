@@ -1,3 +1,13 @@
+---
+Layout:
+
+Title: "Higher order functions"
+
+Date: "2021-04-12"
+
+Categories:
+---
+
 # INTRODUCTION
 
 I am going to share about higher-order functions from javascript
