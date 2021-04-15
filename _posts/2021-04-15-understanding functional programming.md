@@ -9,11 +9,12 @@ Categories:
 ---
 
 # Introduction
-  Today I'll write about how  I got to understand the bsic of FP. I was stuck on one challenge which  had no clue what it required or how to solve it.
+  Today I'll write about how  I got to understand the basics of FP. I was stuck on one challenge which I had no clue what it required or how to solve it.
 
 # Body
 
   I asked Moral to try and explain to me what FP could be all about and he made me understand that it is a language which uses a ccertain paradigm by applying and composing functions . He also made me see that FP is immutable the code still remain the same despite the change you make to your code but your values remain the same . 
+  
   So this is basically what I got to understand today.
 
 What is Functional Programming?
