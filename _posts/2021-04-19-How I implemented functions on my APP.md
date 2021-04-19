@@ -24,5 +24,5 @@ The onsubmit part was is for default behavior and reading form data.
 4 Insert cell for employee details with  a zero index and call that function.
  That is basically what I did to make the App display and add elements on submit .
 
- # CONCLUSION
+# CONCLUSION
  I realised that making functions can be hard you need to know what you want to do and create that function although it wont be easy at all . Also do not forget to call your function each time you create it . Personally it is still hard to create functions that work but I know i'm getting there.
