@@ -8,7 +8,7 @@ Date: "2021-04-21"
 Categories:
 ---
 
-# INTRODUCTION
+# ITRODUCTION
 Today I am going to write about restaring my website because the files were deleted which is what still confuses me to this point. I'll also add and talk about what I spent my day doing .
 
 # BODY
