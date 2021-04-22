@@ -8,7 +8,7 @@ Date: "2021-04-22"
 Categories:
 ---
 # INTRODUCTION 
-The topic we are writing about today was specifically chosen by Moral but it was something which Jason was talking about. It is definitely not the first time i've heard the word but based on the computer side I am not sure what it really means or is about , hence I went to Google to search about fit and gathered this portion of information.  
+The topic we are writing about today was specifically chosen by Moral but it was something which Jason was talking about. It is definitely not the first time i've heard the word but based on the computer side I am not sure what it really means or is about , hence I went to Google to search about it and gathered this portion of information.  
 
 # BODY
 So in my knowldge I know that the word Protocols means that rules or laws that you have to follow or abide by .
@@ -37,4 +37,4 @@ Telnet: Telnet is a set of rules designed for connecting one system with another
 Gopher: Gopher is a collection of rules implemented for searching, retrieving as well as displaying documents from isolated sites. Gopher also works on the client/server principle.
 
 # CONCLUSION
-If not for the internet I wouldn't have known all this information. My task is to understand why they are there and know how to differentiate between all of them.
+If not for the internet I wouldn't have known all this information. My task is to understand why they are there and know how to differentiate between all of them
