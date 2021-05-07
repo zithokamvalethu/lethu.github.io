@@ -9,11 +9,13 @@ Categories:
 ---
 
 # INTRODUCTION
+
 I will write about the Reduce method today.nI came across it on one of the challenge in FreeCodeCamp.
 
 # BODY
- What is the reduce method?
- Reduce is a method that can be difficult to understand especially with all the vague explanations..
+
+What is the reduce method?
+Reduce is a method that can be difficult to understand especially with all the vague explanations..
 Definition and Usage
 The reduce() method reduces the array to a single value.
 
@@ -23,9 +25,9 @@ The return value of the function is stored in an accumulator (result/total).
 
 Note: reduce() does not execute the function for array elements without values.
 
- This method does not change the original array.
+This method does not change the original array.
 
- # CONCLUSION
- 
- Syntax
+# CONCLUSION
+
+Syntax
 array.reduce(function(total, currentValue, currentIndex, arr), initialValue)
