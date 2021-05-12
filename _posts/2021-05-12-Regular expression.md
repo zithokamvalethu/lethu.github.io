@@ -7,10 +7,10 @@ Date: "2021-05-12"
 
 Categories:
 ---
- # INTRODUCTION
+# INTRODUCTION
  Today I will write about regular expression because I was dealing with them on FreeCodeCamp today. I came across challenges that needed me to go back and refer on my notes and remember how to use them.
 
- # BODY
+# BODY
  What are regular expressions?
  Regular expressions are designs or patterns used to match combinations in strings .
  Regular expressions can be used hand in hand with the split(), join() and other methods depending on what you are trying to achieve on your code.
@@ -25,5 +25,5 @@ Categories:
  return str.split(/\W/); .
 
 
- # CONCLUSION
+# CONCLUSION
  Regex are important for match combination in strings, and also because regex are also objects. A way of using a regular expression literal, is to enclose the pattern between slashes.
