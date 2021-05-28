@@ -7,6 +7,8 @@ Date: "2021-05-24"
 
 Categories:
 ---
+
+
 # INTRODUCTION
 Today I am going to write about a method that I got introduced to today.
 
