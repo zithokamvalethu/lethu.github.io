@@ -7,6 +7,8 @@ Date: "2021-05-28"
 
 Categories:
 ---
+
+
 # INTRODUCTION
 Today I am going to write about the FreeCodeCampCamp challenge and then touch a bit on the task we were given .
 
