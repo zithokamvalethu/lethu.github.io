@@ -6,7 +6,8 @@ Title: "Local Storage"
 Date: "2021-06-17"
 
 Categories:
----# INTRODUCTION
+---
+# INTRODUCTION
 Today I am going to write about Local storage which is something we have to implement in our latest task.<br> Our task is to do an admin app and save the data on local storage so that when I refresh the Browser the information does not disappear<br> 
 - I conducted my research on local storage today and I will write about what I understand with the way the code should be<br> 
 - Also today I spent most of my time on the Admin App,codewars and watching and reading tutorials on local storage<br> 
@@ -24,9 +25,9 @@ First, on your Html page, you will:
 
 On the Javascript file :
 1) I will start by adding a var by 
-a) const storageInput =(and use the document<br> getElementByID)
-B) const for text =(and use the document<br> getElementByID)
-c) const button = (and use the document<br> getElementByID)
+a) const storageInput =(and use the document getElementByID)
+B) const for text =(and use the document getElementByID)
+c) const button = (and use the document getElementByID)
 2)For the storageInput add an eventListener which takes ('input',word)
 
 Thus far this is all I know and I am not sure about whether this will work or not because I did not practice it at all<br> 
