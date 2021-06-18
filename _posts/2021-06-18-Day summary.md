@@ -20,5 +20,5 @@ On my admin app I am able to do a single thing so far which is to calculate the 
 On codewars I came across a kata that had to do with Binary and because of not having enough knowledge about binary's I had to conduct a short research and teach my self a few things about binary's. After I had gathered information I went ahead and solved the kata with success.
  One other thing I learnt today is how I should create an input which add multiple strings.
 
- # CONCLUSION
+# CONCLUSION
  During my weekend I will by all means try to spend my time learning about functions.
