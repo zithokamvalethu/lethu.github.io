@@ -22,4 +22,4 @@ Admin App
 I managed to fix my functions and the errors I was getting before are solved so I reckon that what is the major part is the local storage part implementing it so that I will be finished with the APP.
 
 # CONCLUSION
-TOmorrow I will be focusing on the new topic I have started on FreeCodeCamp the jQuery and do put local storage code on mny app .
+Tomorrow I will be focusing on the new topic I have started on FreeCodeCamp the jQuery and do put local storage code on mny app .
