@@ -15,7 +15,7 @@ I managed tto do alot and write down some Psuedo Code which I will need for my p
 
 # BODY
 
-What Is Psuedo Code?
+What Is Pseudo Code?
 It is the informal and the artificial language that helps programmers develop algorithms. <br>You have to write code but it is in a way more simplified way.<br>
 I learned about validation and verification which is a matter I will also touch on when I am doing a presentation..<br>
 -Verification is testing that your product meets the specifications OR requirements you have written.<br>
