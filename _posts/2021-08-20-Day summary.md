@@ -21,4 +21,4 @@ Also while I was doing the React project I was able to apply an Image background
 
 
 # CONCLUSION
-I will finish my poroject and do the rest of the Free code camp challenges when I come back on Monday.
+I will finish my project and do the rest of the Free code camp challenges when I come back on Monday.
