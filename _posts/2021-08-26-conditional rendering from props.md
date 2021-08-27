@@ -3,7 +3,7 @@ Layout:
 
 Title: "Daily Summary"
 
-Date: "2021-08-26"
+Date: "2021-08-27"
 
 Categories:
 ---
@@ -23,4 +23,9 @@ A re-render can only be triggered if a component's state has changed. The state 
 What is conditional rendering in React?
 Image result for render conditionally from props
 Conditional rendering is a term to describe the ability to render different user interface (UI) markup if a condition is true or false. In React, it allows us to render different elements or components based on a condition. This concept is applied often in the following scenarios: Rendering external data from an API.
+
+
+# CONCLUSION
+Tomorrow I will start reading a book called 'The road to react'.
+
 
