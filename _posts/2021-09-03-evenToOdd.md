@@ -19,4 +19,4 @@ Final solution to the Kata
 const sumSquareEvenRootOdd = ns => { let arr = ns.map(num=>{ if(num%2 ===0){ return Math.pow(num, 2) }else{ return Math.sqrt(num) } }) return Number(arr.reduce((acc, curr)=> acc+=curr).toFixed(2)) };
 
 # CONCLUSION
-This kata made me learn some new like toFix method which is not something that I have used before. And it has made me start thinking of the problem as a pizza.
+This kata made me learn some new like toFix method which is not something that I have used before. 
