@@ -8,7 +8,7 @@ Date: "2021-09-08"
 Categories:
 ---
 
-# INTRODUCTCION
+# INTRODUCTION
 Today I am going to write about React callbacks.
 
 # BODY
