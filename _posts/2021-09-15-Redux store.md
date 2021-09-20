@@ -49,4 +49,4 @@ Example:
 const store = createStore(rootReducer).<br>
 
 # CONCLUSION
-This was the first challenge on Redux and form there it then builds up a lot of things are introduced.
+This was the first challenge on Redux and from there it then builds up a lot of things are introduced.
