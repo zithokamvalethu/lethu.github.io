@@ -30,4 +30,4 @@ So I was still checking how to detect the problem and the Free code camp misbeha
 
 
 # CONCLUSION
-Tomorrow I plan on reading some handbook for Javascript functioms and continue with my day-to-day work.
+Tomorrow I plan on reading some handbook for Javascript functions and continue with my day-to-day work.
