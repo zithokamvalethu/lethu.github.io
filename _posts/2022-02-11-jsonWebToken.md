@@ -25,7 +25,7 @@ Security-wise, SWT can only be symmetrically signed by a shared secret using the
 JSON parsers are common in most programming languages because they map directly to objects.</br> Conversely, XML doesn't have a natural document-to-object mapping.</br> This makes it easier to work with JWT than SAML assertions.</br>
 
 Regarding usage, JWT is used at Internet scale.</br> This highlights the ease of client-side processing of the JSON Web token on multiple platforms, especially mobile.</br>
-
+# CONCLUSION 
 -What is the JSON Web Token structure?</br>
 In its compact form, JSON Web Tokens consist of three parts separated by dots (.), which are:</br>
 
