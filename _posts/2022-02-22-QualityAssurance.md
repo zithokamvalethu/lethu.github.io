@@ -1,0 +1,59 @@
+---
+Layout:
+
+Title: "Daily Summary"
+
+Date: "2022-02-22"
+
+Categories:
+---
+
+# INTRODUCTION
+
+I am going to write about SQL.<br> This is soemrthinng we were told to reasearch and gather as enough information as we could.<br>
+
+# BODY
+
+What is SQL ?
+What is SQL?
+SQL stands for Structured Query Language
+SQL lets you access and manipulate databases
+SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987
+
+So we can also say SQL is a language designed entirely for accessing databases and is the most popular of them.<br> With SQL, we can create tables, change data, get back the data we're interested in.<br>
+What Can SQL do?
+SQL can execute queries against a database.<br>
+SQL can retrieve data from a database.<br>
+SQL can insert records in a database.<br>
+SQL can update records in a database.<br>
+SQL can delete records from a database.<br>
+SQL can create new databases.<br>
+SQL can create new tables in a database.<br>
+SQL can create stored procedures in a database.<br>
+SQL can create views in a database.<br>
+SQL can set permissions on tables, procedures, and views.<br>
+Using SQL in Your Web Site
+To build a web site that shows data from a database, you will need:
+
+## An RDBMS database program (i.<br>e.<br> MS Access, SQL Server, MySQL)
+
+To use a server-side scripting language, like PHP or ASP.<br>
+To use SQL to get the data you want.<br>
+To use HTML / CSS to style the page.<br>
+
+RDBMS
+RDBMS stands for Relational Database Management System.<br>
+
+RDBMS is the basis for SQL, and for all modern database systems such as MS SQL Server, IBM DB2, Oracle, MySQL, and Microsoft Access.<br>
+
+The data in RDBMS is stored in database objects called tables.<br> A table is a collection of related data entries and it consists of columns and rows.<br>
+
+Every table is broken up into smaller entities called fields.<br> The fields in the Customers table consist of CustomerID, CustomerName, ContactName, Address, City, PostalCode and Country.<br> A field is a column in a table that is designed to maintain specific information about every record in the table.<br>
+
+A record, also called a row, is each individual entry that exists in a table.<br> For example, there are 91 records in the above Customers table.<br> A record is a horizontal entity in a table.<br>
+
+A column is a vertical entity in a table that contains all information associated with a specific field in a table.<br>
+
+# CONCLUSION
+
+I have learnt so much about SQL and I think so far the information I have tells me that it is easy to work with SQL and I want to start using it very soon before I forget it at all.
