@@ -3,7 +3,7 @@ Layout:
 
 Title: "Daily Summary"
 
-Date: "2022-02-22"
+Date: "2022-02-23"
 
 Categories:
 ---
