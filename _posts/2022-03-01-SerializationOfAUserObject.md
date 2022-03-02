@@ -12,6 +12,8 @@ Categories:
 
 Today I was doing A challenge on free code camp and it was a build up challenge for the next challenges. I am going to touch on all of those challenges which needed serialization and deserialization.
 
+# BODY
+
 serialization and deserialization are important concepts in regards to authentication. To serialize an object means to convert its content into small key that can then be deserialized into the original object. This is what allows us to know who has communicated with the server without having to send the authentication data, like the username and password, at each request for a new page.
 
 In order to do so we need to have a serialized function and deserialized function. In passport we create those with passport.serializeUser( OURFUNCTION ) and passport.deserializeUser( OURFUNCTION )
