@@ -23,10 +23,10 @@ Steps for Connecting, Saving and Finding Data in MongoDB with NodeJS and Express
   --Express — Fast, unopinionated, minimalist web framework.</br>
   --Mongoose — Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment .</br>
   --Cors — Middleware for dynamically or statically enabling CORS in express/connect applications.</br>
-- Secodly create database schema :</br>
+- Secondly create database schema :</br>
   --A database schema outlines the architecture of your database and helps ensure that the data has consistent formatting, every record entry has a unique primary key, and essential data doesn't get omitted.</br>
 - Create model and connect to MongoDB.</br>
-  -- A model consist of your mLab URI which is a type of a URL to cocnnect to your database.</br>
+  -- A model consist of your mLab URI which is a type of a URL to connect to your database.</br>
   --Syntax :mongoose.connect('mongodb://dbuser:dbpassword@ds055555.mlab.com:55555/dbName').</br>
 - Lastly implementing a route which we will use to insert data to the database.</br>
   And when I had did all the above steps my App worked but the only thing I'm left to do is check if my routes were correct..</br>
